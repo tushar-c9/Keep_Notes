@@ -4,4 +4,4 @@
 
 * This runs on local storage therefore, you can access your saved notes easily. 
 
-*Made by using HTML, CSS and javaScript.
+* Made by using HTML, CSS and javaScript.
